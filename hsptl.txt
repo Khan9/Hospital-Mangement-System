@@ -1,0 +1,59 @@
+Rakib Hasan:30:M:Doctor:Cardiology:B+:Islam:Dhanmondi:01850059293:rakib@gmail.com:
+Messbah Uddin:32:M:Doctor:Dermatology:O-:Islam:Farmgate:01792243232:messbah@gmail.com:
+Debnath:33:M:Doctor:Cardiology:O+:Hindu:Mirpur 10:01723654897:debnath@gmail.com:
+Tithi:35:F:Doctor:Neurology:AB+:Hindu:Dhanmondi:01721456398:tithi@gmail.com:
+Robin Khan:33:M:Doctor:Dental:AB-:Islam:Mirpur 14:01654789214:robin@gmail.com:
+Kawsar Ahmed:36:M:Doctor:Internal_Medicine:A+:Islam:Panthapath:01563978123:kawsar@gmail.com:
+Didarul Islam:39:M:Doctor:Internal_Medicine:B-:Islam:Kajipara:01912365478:didar@gmail.com:
+Jahirul Islam:37:M:Doctor:General_surgery:B+:Islam:Dhanmondi:01850059295:jahir@gmail.com:
+Dipito Hasan:34:M:Doctor:Neuro_surgery:AB+:Islam:Mohammadpur:01956471258:Dipito@gmail.com:
+Papon Sarker:36:M:Doctor:Orthopedic & joint surgery:B-:Hindu:Agargaon:01536978451:papon@gmail.com:
+Joyonto Sarker:33:M:Doctor:Cardiology:B+:Hindu:Kajipara:01912365458:onto@gmail.com:
+Akhi Saha:41:F:Doctor:Dental:Neurology:AB+:Hindu:Dhanmondi:01855559293:akhi@gmail.com:
+Nazrul Islam:45:M:Doctor:Dermatology:B+:Islam:Dhanmondi:01850059473:nazrul@gmail.com:
+Shomir Hossain:42:M:Doctor:Dermatology:O+:Hindu:Dhanmondi:01750059293:shomir@gmail.com:
+Rahat Islam:38:M:Doctor:Dermatology:A+:Islam:Tejgaon:01550059293:Rahat@gmail.com:
+Rafiqul Islam:35:M:Doctor:Neurology:AB-:Islam:Shahbag:01556659293:rafiq@gmail.com:
+Monjurur Rahman:38:M:Doctor:General_surgery:B+:Islam:Dhanmondi:01855559293:rahman@gmail.com:
+Ismail Kamrul:37:M:Doctor:Internal_Medicine:O+:Islam:Dhanmondi:01850059569:ismail@gmail.com:
+Jannatul Ferdous:44:F:Doctor:Neurology:AB-:Islam:Tejgaon:01858879293:jannat@gmail.com:
+Syeda Ishrat Jahan:41:F:Doctor:Dental:B-:Islam:Dhanmondi:01850088293:syeda@gmail.com:
+Nargis Fatema:46:F:Doctor:Neuro_surgery:O+:Islam:Dhanmondi:01550759293:nargis@gmail.com:
+Sultana Razia Begum:43:F:Doctor:Orthopedic & joint surgery:B+:Islam:Farmgate:01850059333:razia@gmail.com:
+A.B.M Sarwar-E-Alam:49:M:Doctor:General_surgery:B+:Islam:Jatrabari:01850059987:sarwar@gmail.com:
+Abdul Kader Shaikh:42:M:Doctor:Dermatology:A+:Islam:Dhanmondi:01851234542:abul@gmail.com:
+Abdullah Al Jamil:39:M:Doctor:Orthopedic & joint surgery:O-:Islam:Farmgate:01792246632:jamil@gmail.com:
+Abu Reza Mohammad Nooruzzaman:44:M:Doctor:Internal_Medicine:O-:Islam:Panthapath:01792353232:abu@gmail.com:
+Ahmed Zahid Hossain:47:M:Doctor:Internal_Medicine:AB-:Islam:Tejgaon:01792458323:zahid@gmail.com:
+Rekha Akter:22:Female:Nurse:N_Dermatology:O-:Islam:Farmgate:01792243457:rekha@gmail.com:
+Laila Begum:23:Female:Nurse:N_Cardiology:O+:Islam:Mirpur 10:01723654102:laila@gmail.com:
+Sathi Akter:25:Female:Nurse:N_Neurology:AB+:Islam:Dhanmondi:01721456157:sathi@gmail.com:
+Bithi Akter:23:Female:Nurse:N_Dental:AB-:Islam:Mirpur 14:01654789697:bithi@gmail.com:
+Selena Begum:26:Female:Nurse:N_Internal_Medicine:A+:Islam:Panthapath:01563124123:selena@gmail.com:
+Hiron Begum:29:Female:Nurse:N_Internal_Medicine:B-:Islam:Kajipara:01913425478:hiron@gmail.com:
+Eti Akter:27:Female:Nurse:N_General_surgery:B+:Islam:Dhanmondi:01874259295:eti@gmail.com:
+Lipi Akter:24:Female:Nurse:N_Neuro_surgery:AB+:Islam:Mohammadpur:01945747125:lipi@gmail.com:
+Ishita Akter:26:Female:Nurse:N_Orthopedic & joint surgery:B-:Islam:Agargaon:01536548451:ishita@gmail.com:
+Happy Akter:23:Female:Nurse:N_Cardiology:B+:Islam:Kajipara:01562365458:happy@gmail.com:
+Anwara Begum:49:Female Patient:Patient:Heart disease:AB+:Islam:Mirpur:01512348679:anwara@gmail.com:
+ATM Samdani:43:Male Patient:Patient:Heart disease:B+:Islam:Tejgaon:01512344579:samdani@gmail.com:
+Hiramoni Sarma:45:Female Patient:Patient:Heart disease:A+:Hindu:Kajipara:01578348679:sarma@gmail.com:
+Jahangir Alam:46:Male Patient:Patient:Heart disease:O+:Islam:Farmgate:01519648679:alam@gmail.com:
+Kashefa Nazneen:22:Female Patient:Patient:Skin disease:O-:Islam:Agargaon:01736945781:nazneen@gmail.com:
+Kazi Ali Hassan:26:Male Patient:Patient:Skin disease:B+:Islam:Mohammadpur:01736945782:ali@gmail.com:
+Khaled Mohsin:50:Male Patient:Patient:Heart disease:B-:Islam:Farmgate:01736945783:mohsin@gmail.com:
+Khaleda Yeasmin Mirza:21:Female Patient:Patient:Skin disease:O-:Islam:Shyamoli:01736945784:mirza@gmail.com:
+Khandaker Abu Talha:52:Male Patient:Patient:Heart disease:A+:Islam:Agargaon:01736945785:abu@gmail.com:
+M A Wahab Khan:47:Male Patient:Patient:Diabetes:A-:Islam:Agargaon:01736945788:wahab@gmail.com:
+M. A. Rashid:56:Male Patient:Patient:Diabetes:O-:Islam:Tejgaon:01736945787:rashid@gmail.com:
+M. Motahar Hossain:51:Male Patient:Patient:Diabetes:O-:Islam:Arambag:01736945755:hossain@gmail.com:
+Nargis Fatema:44:Female Patient:Patient:Diabetes:O+:Islam:Shahbag:01523486798:fatema@gmail.com:
+Nazneen Sultana:42:Female Patient:Patient:Brain disease:AB+:Islam:Farmgate:01635247892:nazneen@gmail.com:
+Qamruzzaman Chowdhury:45:Male Patient:Patient:Bone disease:B+:Islam:Tangail:01725255236:qamruzzaman@gmail.com:
+Ruhul Hassan Joarder:43:Male Patient:Patient:Brain disease:B-:Islam:Rangpur:01642474849:joarder@gmail.com:
+Salma Wafa:49:Female Patient:Patient:Bone disease:A-:Islam:Agargaon:01655987123:wafa@gmail.com:
+kabir khan:25:Male Patient:Patient:Dengue fever:B+:Islam:Tejgaon:01556987326:kabir@gmail.com:
+Nikhil Sarker:22:Male Patient:Patient:Malaria:B-:Hindu:Tangail:01723647895:nikhil@gmail.com:
+Hanif Ahmed:25:Male Patient:Patient:Dengue fever:A+:Islam:Mymensingh:01624252678:hanif@gmail.com:
+Ahnaf Jawad:29:Male Patient:Patient:Malaria:AB+:Islam:Mirpur:01723548963:jawad@gmail.com:
+
